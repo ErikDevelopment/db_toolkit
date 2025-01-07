@@ -1,4 +1,4 @@
-### README for DatabaseClient Class
+### README for DatabaseClient
 
 ## Overview
 
