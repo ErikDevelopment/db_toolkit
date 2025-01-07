@@ -2,7 +2,7 @@
 
 ## Overview
 
-The `DatabaseClient` class is a Python library designed to simplify interactions with different types of relational databases, including SQLite, MariaDB, and PostgreSQL. It offers a variety of utility functions for creating tables, managing data, handling transactions, and more, allowing for easy integration and management of database operations.
+The goal of this project was to create a Python library called `DatabaseClient.py`, which simplifies interactions with various relational databases (e.g., SQLite, MariaDB, PostgreSQL). This project was designed to provide deeper insights into the topic of databases and enhance expertise in this area.
 
 ## Supported Databases
 
